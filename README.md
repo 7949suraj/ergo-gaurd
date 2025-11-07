@@ -127,15 +127,13 @@ The video includes:
 
 ---
 
-## 👥 Team Members
+| Member             | Role                     | Contribution Summary                                                  |
+| :----------------- | :----------------------- | :-------------------------------------------------------------------- |
+| **Nipun Nandwani** | Developer & Collaborator | Worked on Streamlit interface, testing, and documentation             |
+| **Manas Tripathi** | Developer & Collaborator | Helped in model integration, threshold tuning, and report preparation |
+| **Suraj Patel**    | Developer & Collaborator | Assisted in Streamlit UI, documentation, and demo video creation      |
 
-| Member             | Role                    | Contribution                              |
-| :----------------- | :---------------------- | :---------------------------------------- |
-| Nipun Nandwani     | Project Lead            | Implemented model and Streamlit interface |
-| Manas Tripathi      | Data & ML Specialist    | Worked on training and threshold tuning   |
-| Suraj Patel        | Documentation & Testing | Prepared report, evidence, and demo video |
- 
----
+🧩 All members contributed equally to development, testing, documentation, and report preparation.
 
 ## 🗓 License
 
