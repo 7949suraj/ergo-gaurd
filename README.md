@@ -127,6 +127,8 @@ The video includes:
 
 ---
 
+## 👥 Team Members
+
 | Member             | Role                     | Contribution Summary                                                  |
 | :----------------- | :----------------------- | :-------------------------------------------------------------------- |
 | **Nipun Nandwani** | Developer & Collaborator | Worked on Streamlit interface, testing, and documentation             |
