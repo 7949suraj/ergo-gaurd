@@ -23,7 +23,8 @@ ergo-guard/
 │   └── DES646 Final Project Report_ Ergo-Guard.docx              # Project documentation report
 │
 ├── requirements.txt
-└── README.md
+├── README.md
+└── group_log.md
 ```
 
 ---
@@ -117,7 +118,7 @@ Adjust these numbers if your camera angle or sitting distance differs.
 ## 🎥 Live Demonstration Video
 
 🎮 Watch our **1–2 minute project demonstration** here:
-👉 [Google Drive Demo Video Link](https://drive.google.com/your-demo-link-here)
+👉 [Google Drive Demo Video Link](https://drive.google.com/file/d/1U2pcBc8rJ3xzfRHt7ImVo2eqMNYUdvau/view?usp=drive_link)
 
 The video includes:
 
