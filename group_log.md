@@ -24,7 +24,7 @@ Here is the structured draft for your **DES646 Group Log**, meticulously detaile
 
 ## **Project: Ergo-Guard: AI-Powered Posture Correction System for Designers**
 
-| Team Members | Suraj Patel , Nipun Nandwani , Manas Tripathi |
+| Team Members | Suraj Patel(241066) , Nipun Nandwani(240700) , Manas Tripathi(240616) |
 | :---- | :---- |
 | **Submission Weight** | 15% |
 
